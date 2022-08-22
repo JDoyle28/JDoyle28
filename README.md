@@ -13,7 +13,8 @@ Resume:
 
 Qualification Summary
 ● Computer oriented and technologically competent with multiple API’s, Operating Systems, and IDE’s
-● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms ● Excellent communication with in variety of unique situations
+● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms 
+● Excellent communication with in variety of unique situations
 ● Versatile and experienced in service, sales, and IT and management
 ● Good with money management, analytics and logistics
 ● Creative and outgoing with marketing and presentations
@@ -28,14 +29,14 @@ Current Courses:
 Capstone Experience/industry practice, Algorithms, Computer Graphics, Software Assurance
 
 Relevant Experience
-Serving/Bartending
-Northern Pines, Flagstaff Az — Red Lobster, Greeley Co — Epic Egg, Greeley Co — Gone West Family Restaurant, Page Az — Bonkers, Page Az
+    Serving/Bartending
+    Northern Pines, Flagstaff Az — Red Lobster, Greeley Co — Epic Egg, Greeley Co — Gone West Family Restaurant, Page Az — Bonkers, Page Az
 ● Communication
 ● Upselling and special marketing
 ● Money management
 ● Time management and work efficiency
-Boat Service and Delivery Lead
-Captains and Crews Boat Service-Lake Powell Groceries
+    Boat Service and Delivery Lead
+    Captains and Crews Boat Service-Lake Powell Groceries
 ● Time management and logistical planning
 ● Careful attention to detail and perfection
 ● Large amount of situational experience through huge variety of clientele ● Adapt efficiently to situational problems
