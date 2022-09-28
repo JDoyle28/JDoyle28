@@ -1,20 +1,14 @@
 Hi, I’m @JDoyle28
 
-I’m interested in all things concerning technology, environment, economy, and well-being. 
-I’m currently learning about computation and software development, though I am excited to widen my knowledge through
-    the combination of many of my interests.
-I’m looking to collaborate my skill sets with those that which you can offer and build a better tomorrow. 
-    Being a deticated student, father, and environmentalist, 
-    I can say with assurance, that I a qualified candidate who is up for the task.
-Reach me by email at any time for references, qualifications, or just to chat about important topics.
+I’m interested in all things concerning technology, environment, economy, and well-being. I’m currently learning about computation and software development, though I am excited to widen my knowledge through the combination of many of my interests. I’m looking to collaborate my skill sets with those that you can offer and build a better tomorrow. Being a dedicated student, father, and environmentalist, I can say with assurance, that I am a qualified candidate who is up for the task. Reach me by email at any time for references, qualifications, or just to chat about important topics.
 
 
 Resume:
 
 Qualification Summary
-● Computer oriented and technologically competent with multiple API’s, Operating Systems, and IDE’s
-● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms 
-● Excellent communication with in variety of unique situations
+● Computer oriented and technologically competent with multiple API’s, Operating Systems, and IDE’s\n
+● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms \n
+● Excellent communication with in variety of unique situations\n
 ● Versatile and experienced in service, sales, and IT and management
 ● Good with money management, analytics and logistics
 ● Creative and outgoing with marketing and presentations
