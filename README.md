@@ -6,9 +6,9 @@ I’m interested in all things concerning technology, environment, economy, and 
 Resume:
 
 Qualification Summary
-● Computer oriented and technologically competent with multiple API’s, Operating Systems, and IDE’s\n
-● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms\n
-● Excellent communication with in variety of unique situations\n
+● Computer oriented and technologically competent with multiple API’s, Operating Systems, and IDE’s
+● Comprehensive knowledge of multiple languages, frameworks, data structures, and security mechanisms
+● Excellent communication with in variety of unique situations
 ● Versatile and experienced in service, sales, and IT and management
 ● Good with money management, analytics and logistics
 ● Creative and outgoing with marketing and presentations
